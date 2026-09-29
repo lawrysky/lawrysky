@@ -7,7 +7,7 @@
 - 😄 Pronouns: he/him...
 - ⚡ Fun fact: Fun fact: I debug code by day, cut timelines by night — both need perfect timing....
 <img width="1280" height="640" alt="image" src="https://github.com/user-attachments/assets/691d1ca2-4068-432e-b773-2bd049d3d3db" />
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lawrysky&show_icons=true&theme=tokyonight)
 <!---
 lawrysky/lawrysky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
