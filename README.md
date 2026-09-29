@@ -7,7 +7,7 @@
 - 😄 Pronouns: he/him...
 - ⚡ Fun fact: Fun fact: I debug code by day, cut timelines by night — both need perfect timing....
 
-![GitHub Streak](https://streak-stats.demolab.com?user=lawrysky&theme=tokyonight)
+    ![GitHub Streak](https://streak-stats.demolab.com?user=lawrysky&theme=tokyonight)
 <!---
 lawrysky/lawrysky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
