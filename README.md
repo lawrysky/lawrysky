@@ -13,7 +13,8 @@
 
     ![LawrySky GitHub Stats](https://github-stats-extended.vercel.app/api?username=lawrysky&theme=radical)
 
-    ![website](https://lawrytech.gamer.gd/)
+    <img width="595" height="292" alt="image" src="https://github.com/user-attachments/assets/88818f85-24f6-4df2-83ea-d5a701d915cb" />
+
 <!---
 lawrysky/lawrysky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
