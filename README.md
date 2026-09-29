@@ -6,7 +6,10 @@
 - 🌐 website https://lawrytech.gamer.gd/?i=1...
 - 😄 Pronouns: he/him...
 - ⚡ Fun fact: Fun fact: I debug code by day, cut timelines by night — both need perfect timing....
+  
     ![GitHub Streak](https://streak-stats.demolab.com?user=lawrysky&theme=tokyonight)
+
+    https://github-stats-extended.vercel.app/api?lawrysky=octocat&theme=radical
 
     <img width="1280" height="640" alt="image" src="https://github.com/user-attachments/assets/691d1ca2-4068-432e-b773-2bd049d3d3db" />
 <!---
