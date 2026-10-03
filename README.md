@@ -17,9 +17,11 @@ I'm a fullstack developer passionate about building modern web apps.
 
     ![LawrySky GitHub Stats](https://github-stats-extended.vercel.app/api?username=lawrysky&theme=radical)
 
-    #### 🟢 Status:
-[![Discord Presence](https://lanyard.cnrad.dev/api/1398369123357167946?theme=dark&bg=1a1d23&hideDiscrim=true)](https://discord.com/users/1398369123357167946)
-
+   #### 🟢 Status:
+![currently online](https://img.shields.io/badge/currently-online-brightgreen?style=flat-square)
+![playing nothing rn](https://img.shields.io/badge/playing-nothing_rn-purple?style=flat-square)
+![coding nothing rn](https://img.shields.io/badge/coding-nothing_rn-blue?style=flat-square)
+![listening to nothing rn](https://img.shields.io/badge/listening_to-nothing_rn-green?style=flat-square)
 <!---
 lawrysky/lawrysky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
