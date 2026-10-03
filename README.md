@@ -9,6 +9,8 @@
   
     ![GitHub Streak](https://streak-stats.demolab.com?user=lawrysky&theme=tokyonight)
 
+   [![My Skills](https://skillicons.dev/icons?i=js,ts,html,vercel,firebase,express,react,next,nodejs,tailwind,mongodb,figma,vite,npm,jquery)](https://skillicons.dev)
+
     <img width="1280" height="640" alt="image" src="https://github.com/user-attachments/assets/691d1ca2-4068-432e-b773-2bd049d3d3db" />
 
     ![LawrySky GitHub Stats](https://github-stats-extended.vercel.app/api?username=lawrysky&theme=radical)
