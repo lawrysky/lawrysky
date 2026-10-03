@@ -17,7 +17,8 @@ I'm a fullstack developer passionate about building modern web apps.
 
     ![LawrySky GitHub Stats](https://github-stats-extended.vercel.app/api?username=lawrysky&theme=radical)
 
-    <img width="595" height="292" alt="image" src="https://github.com/user-attachments/assets/88818f85-24f6-4df2-83ea-d5a701d915cb" />
+    #### 🟢 Status:
+[![Discord Presence](https://lanyard.cnrad.dev/api/1398369123357167946?theme=dark&bg=1a1d23&hideDiscrim=true)](https://discord.com/users/1398369123357167946)
 
 <!---
 lawrysky/lawrysky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
