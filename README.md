@@ -14,7 +14,7 @@ I'm a fullstack developer passionate about building modern web apps.
 
 - 💞 I'm looking to collaborate on web designs...
 - 📫 How to reach me: https://wa.me/+2349056931197
-- 🌐 Website: https://lawrytech.gamer.gd/?i=1
+- 🌐 Website: https://lawrytech.gt.tc/?i=1
 - 😄 Pronouns: he/him
 - ⚡️ Fun fact: I debug code by day, cut timelines by night — both need perfect timing....
 
